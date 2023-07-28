@@ -1,1 +1,1 @@
-# JenkinsPipelineSonarQubeDockerGithubWebhooks
+# SonarQubeDockerGithubWebhooks
